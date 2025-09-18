@@ -11,7 +11,7 @@ import streamlit as st
 import random
 
 # App Title
-st.title("🏦 Dhanush's World - Help Desk")
+st.title("🏦 Crafter's Help Desk")
 
 # Session State for storing values across interactions
 if "name" not in st.session_state:
@@ -99,4 +99,4 @@ elif choice == "Check Balance":
 
 # 7. Exit
 elif choice == "Exit":
-    st.success("🙏 Thank you for visiting Dhanush's World. Goodbye!")
+    st.success("🙏 Thank you for visiting Crafter's Bank. Goodbye!")
