@@ -11,7 +11,7 @@ import streamlit as st
 import random
 
 # App Title
-st.title("🏦 Crafter's Help Desk")
+st.title("🏦 Crafter's Banking - Hydrabad")
 
 # Session State for storing values across interactions
 if "name" not in st.session_state:
